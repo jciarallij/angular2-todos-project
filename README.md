@@ -2,7 +2,6 @@
  
 ## Todos List - CRUD
 Created a simple todo list using CRUD. Store the todo data on the localstorage. My first Angular 2 project.
-[demo](http://www.ciaralli.com/angular2/todos) version 1.0.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
